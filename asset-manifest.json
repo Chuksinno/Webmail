@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/webmail/static/css/main.284bea93.css",
-    "main.js": "/webmail/static/js/main.a800a119.js",
-    "static/js/453.b2503260.chunk.js": "/webmail/static/js/453.b2503260.chunk.js",
-    "static/media/anco.png": "/webmail/static/media/anco.ec06b53925bf22085bd3.png",
-    "static/media/yahoo.png": "/webmail/static/media/yahoo.97d48a7e39c11622c276.png",
-    "static/media/Webmail.png": "/webmail/static/media/Webmail.9b134705975967e87969.png",
-    "index.html": "/webmail/index.html",
-    "main.284bea93.css.map": "/webmail/static/css/main.284bea93.css.map",
-    "main.a800a119.js.map": "/webmail/static/js/main.a800a119.js.map",
-    "453.b2503260.chunk.js.map": "/webmail/static/js/453.b2503260.chunk.js.map"
+    "main.css": "/Webmail/static/css/main.284bea93.css",
+    "main.js": "/Webmail/static/js/main.65b9e615.js",
+    "static/js/453.b2503260.chunk.js": "/Webmail/static/js/453.b2503260.chunk.js",
+    "static/media/anco.png": "/Webmail/static/media/anco.ec06b53925bf22085bd3.png",
+    "static/media/yahoo.png": "/Webmail/static/media/yahoo.97d48a7e39c11622c276.png",
+    "static/media/Webmail.png": "/Webmail/static/media/Webmail.9b134705975967e87969.png",
+    "index.html": "/Webmail/index.html",
+    "main.284bea93.css.map": "/Webmail/static/css/main.284bea93.css.map",
+    "main.65b9e615.js.map": "/Webmail/static/js/main.65b9e615.js.map",
+    "453.b2503260.chunk.js.map": "/Webmail/static/js/453.b2503260.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.284bea93.css",
-    "static/js/main.a800a119.js"
+    "static/js/main.65b9e615.js"
   ]
 }
