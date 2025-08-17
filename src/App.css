@@ -57,3 +57,14 @@ button{
   cursor: pointer;
 }
 
+.form img[alt$="Logo"] {
+  margin: 0 auto;
+  display: block;
+  padding: 10px 0;
+}
+
+.error-message {
+  color: #d32f2f;
+  font-size: 0.85rem;
+  margin-top: 5px;
+}
